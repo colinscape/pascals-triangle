@@ -1,0 +1,17 @@
+{
+  "author": "Colin Ross <colin@colinscape.com> (http://colinscape.com/)",
+  "name": "pascals-triangle",
+  "description": "Generate row of Pascal's Triangle",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colinscape/pascals-triangle.git"
+  },
+  "main": "./pascals-triangle.coffee",
+  "engines": {
+    "node": "0.6.6"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
